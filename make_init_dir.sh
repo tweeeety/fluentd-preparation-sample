@@ -21,3 +21,4 @@ mkdir -p /var/log/td-agent/project/flowcounter
 
 # change owner
 chown -R td-agent:td-agent /var/log/td-agent/project
+
